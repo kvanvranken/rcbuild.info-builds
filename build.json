@@ -13,7 +13,7 @@
     ],
     "osd": "Team-BlackSheep/TBS-Core-PNP50",
     "receiver": "FrSky/D4R-II",
-    "flightcam": "",
+    "flightcam": "RunCam/SKY",
     "hqcam": "SpyTec/Mobius-Action-Cam-Wide-Angle",
     "videotx": "ImmersionRC/5.8GHz-600mw",
     "blackbox": "",
