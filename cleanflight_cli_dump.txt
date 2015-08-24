@@ -1,3 +1,5 @@
+# dump
+
 # version
 # Cleanflight/NAZE 1.9.0 May 31 2015 / 13:17:47 (98f7549)
 # dump master
@@ -41,7 +43,7 @@ map RTEA1234
 
 # serial
 serial 0 5 115200 57600 0 115200
-serial 1 0 115200 57600 0 115200
+serial 1 0 115200 57600 0 250000
 
 
 # led
@@ -172,7 +174,7 @@ set rx_max_usec = 2115
 set acc_hardware = 1
 set mag_hardware = 0
 set blackbox_rate_num = 1
-set blackbox_rate_denom = 1
+set blackbox_rate_denom = 2
 set blackbox_device = 0
 
 # dump profile
@@ -273,10 +275,10 @@ set p_yaw = 85
 set i_yaw = 45
 set d_yaw = 0
 set p_pitchf =  1.600
-set i_pitchf =  0.300
+set i_pitchf =  0.290
 set d_pitchf =  0.030
 set p_rollf =  1.600
-set i_rollf =  0.300
+set i_rollf =  0.290
 set d_rollf =  0.030
 set p_yawf =  5.500
 set i_yawf =  0.150
