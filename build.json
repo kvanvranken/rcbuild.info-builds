@@ -1,18 +1,22 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "Lumenier/QAV180",
+    "esc": "Favorite/LittleBee-20A",
+    "motor": "T-Motor/MN1806-2300kv",
+    "fc": "AbuseMark/Acro-Naze32-rev6",
+    "prop": [
+      "HQProp/4x4.5-FG-BN"
+    ],
+    "arm": "",
+    "battery": [
+    ],
+    "osd": "MultiRotorMania/MinimOSD",
+    "receiver": "FrSky/X4RSB",
+    "flightcam": "Lumenier/CM-650-Mini---650TVL-Camera-25x25mm",
+    "hqcam": "GoPro/HERO4-Session",
+    "videotx": "",
+    "blackbox": "",
+    "voltagereg": ""
+  },
+  "version": 1
 }
