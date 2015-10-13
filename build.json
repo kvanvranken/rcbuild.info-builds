@@ -14,7 +14,7 @@
     "receiver": "FrSky/X4RSB",
     "flightcam": "Lumenier/CM-650-Mini---650TVL-Camera-25x25mm",
     "hqcam": "GoPro/HERO4-Session",
-    "videotx": "",
+    "videotx": "Lumenier/TX5G6R-Mini-600mW-5.8GHz-FPV-Transmitter-with-Raceband",
     "blackbox": "",
     "voltagereg": ""
   },
