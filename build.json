@@ -9,6 +9,7 @@
     ],
     "arm": "",
     "battery": [
+      "Turnigy/nano-tech-1300mah-3S-25~50C-Lipo-AIRSOFT-Pack"
     ],
     "osd": "MultiRotorMania/MinimOSD",
     "receiver": "FrSky/X4RSB",
@@ -16,7 +17,7 @@
     "hqcam": "GoPro/HERO4-Session",
     "videotx": "Lumenier/TX5G6R-Mini-600mW-5.8GHz-FPV-Transmitter-with-Raceband",
     "blackbox": "",
-    "voltagereg": ""
+    "voltagereg": "Pololu/5V-1A-Step-Down-Voltage-Regular-D24V10F5"
   },
   "version": 1
 }
