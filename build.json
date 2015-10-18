@@ -5,7 +5,7 @@
     "motor": "T-Motor/MN1806-2300kv",
     "fc": "AbuseMark/Acro-Naze32-rev6",
     "prop": [
-      "HQProp/4x4.5-FG-DD"
+      "HQProp/4x4.5-FG-BN"
     ],
     "arm": "",
     "battery": [
